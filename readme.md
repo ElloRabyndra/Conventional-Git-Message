@@ -2,3 +2,10 @@ Ini Repo Challenge II Frontend kalian harus add, update or delete sesuai dengan 
 
 inisial huruf vokal: update index.html dengan intruksi
 inisial huruf konsonan: add file {nama}.html yang isinya sama dengan index.html tetapi section card diganti dengan punya kalian
+
+    <section id="card">
+        <div>
+          <h2>M. Ilham Syafik</h2>
+          <p>Saya seorang Frontend Developer. Saya suka React dan Next karena gacor bet minus linting bangke pas deploy.</p>
+        </div>
+    </section>
