@@ -5,7 +5,7 @@ inisial huruf konsonan: add file {nama}.html yang isinya sama dengan index.html 
 
     <section id="card">
         <div>
-          <h2>Mohammad Rizky Sinaga</h2>
-          <p>Saya seorang Front-end Developer. Maaf ya Syafik saya telat :D.</p>
+          <h2>Ferdianto</h2>
+          <p>Saya seorang Frontend Developer. Saya lebih suka Tailwind dibandingkan Bootstrap.</p>
         </div>
-    </section>
+      </section>
